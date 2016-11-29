@@ -1,0 +1,275 @@
+@media screen and (max-width: 800px)
+{
+    .textcon
+    {
+        margin-right: auto  !important;
+        margin-left: auto  !important;
+
+        background-position: -9999px !important;
+    }
+    .bgcontainer
+    {
+        width: 100% !important;
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+    .mobileimage
+    {
+        display: block !important;
+
+        text-align: center !important;
+    }
+    h4
+    {
+        padding-top: 0 !important;
+        text-align:center;
+        font-size:0.8em;
+    }
+    h1
+    {
+        padding-top: 0 !important;
+        font-size:1.3em;
+        text-align:center;
+    }
+    h3
+    {
+        padding-top: 0 !important;
+        font-size:1em;
+        text-align:center;
+    }
+    .credits {
+        padding-top:0px !important;
+    }
+    .creditsone
+    {
+        padding-right:0px !important;
+        padding-bottom: 30px;
+    }
+    .circularlogo
+    {
+        margin-bottom: 20px !important;
+    }
+    .logo
+    {
+        display: none;
+    }
+    .top-bar-section li  a
+    {
+        font-weight: bold !important;
+
+        color: #fff !important; /*example */
+        background: #333 !important; /*example */
+    }
+    .top-bar
+    {
+        background-color: #333 !important;
+    }
+    .mobcenter
+    {
+        text-align: center;
+    }
+    .button {
+        padding:8px;
+
+    }
+    .buttons {
+        text-align:center;
+        position:static !important;
+        left:0;
+        top:0;
+    }
+    .homemagic {
+        min-height:50vh !important;
+    }
+}
+body {
+    background-color:#ededed;
+    max-width: 100%;
+    overflow-x: hidden;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+.bgcontainer
+{
+    font-weight: 400 !important;
+
+    width: 99%;
+    margin-top: 10px;
+    margin-right: auto;
+    margin-left: auto;
+
+    background-color: #ededed;
+}
+.top-bar
+{
+    background-color: #ededed;
+}
+.left
+{
+    padding-top: 5px !important;
+}
+.top-bar-section li  a
+{
+    font-weight: bold !important;
+
+    color: #575748 !important; /*example */
+    background: #ededed !important; /*example */
+}
+h4
+{
+    font-weight: 400 !important;
+
+    padding-top: 11%;
+
+    color: #545454;
+}
+h1
+{
+    font-weight: 700 !important;
+
+    padding-top: 4%;
+
+    color: #343426;
+}
+h3
+{
+    font-weight: 700 !important;
+    line-height: 105%;
+
+    max-width: 500px !important;
+    padding-top: 1%;
+
+    color: #343426;
+}
+.citation
+{
+    padding-top: 1%;
+
+    color: #bdbdad;
+}
+.buttons
+{
+    padding-top: 11%;
+    position:absolute;
+    left:40%;
+    top:400px;
+}
+.textcon
+{
+    min-height: 800px;
+}
+#bgimageholder
+{
+    background-image: url('../img/1.png');
+    background-repeat: no-repeat;
+    background-position: right top;
+}
+.credits
+{
+    font-size: .75em;
+    line-height: 130%;
+
+    padding-top: 30%;
+
+    color: grey;
+}
+.creditsone
+{
+    padding-right: 100px;
+}
+.smallcredits
+{
+    font-size: .75em;
+
+    padding-top: 50px !important;
+    padding-bottom: 2% !important;
+    color: grey;
+
+}
+
+.mobileimage
+{
+    display: none;
+}
+
+.truthcontent
+{
+    max-width: 800px !important;
+    margin-right: auto !important;
+    margin-left: auto !important;
+
+    text-align: center;
+}
+.vapetext
+{
+    text-align: left;
+}
+.cite
+{
+    font-size: .75em;
+
+    text-align: left;
+}
+p
+{
+    color: grey;
+}
+hr
+{
+    padding: 20px;
+}
+.reveal-modal
+{
+    padding: 0;
+
+    border: 0;
+    background: transparent;
+    -webkit-box-shadow: none;
+            box-shadow: none;
+}
+.innerdiv
+{
+    position: relative;
+
+    max-width: 800px;
+    margin: 0 auto;
+
+    background-color: white !important;
+    -webkit-box-shadow: 0 0 10px rgba(0,0,0,.4);
+            box-shadow: 0 0 10px rgba(0,0,0,.4);
+}
+
+.story
+{
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-bottom:10px;
+    min-height:240px;
+    background-color: white !important;
+    border:1px solid gray;
+}
+.captcha
+{
+    text-align: center;
+}
+.readmorelink
+{
+    display:block;
+    text-align:right;
+    font-size: .75em;
+}
+.testimonialbox
+{
+    height: 200px;
+}
+
+#recaptcha_area
+{
+    margin: 0 auto;
+    max-width: 450px;
+    text-align:center;
+}
+.homemagic {
+    height:350px;
+}
+

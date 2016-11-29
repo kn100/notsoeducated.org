@@ -1,0 +1,25 @@
+{
+  "facts": [
+    {
+      "intro": "E-cigarettes are considered safer than Analog cigarettes.<br/>Did you know that they are:",
+      "image": "1",
+      "fact": "MUCH LESS TOXIC",
+      "factjustifier": "\'Cadmium, lead and nickel have also been detected but in trace levels only, comparable with levels in Nicorette inhalers\'",
+      "Citation": "Citation: <a href=\'http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3850892/\'>A fresh look at tobacco harm reduction - US National Library of Medicine</a>"
+    },
+    {
+      "intro": "E-cigarettes are being used by many to kick a dangerous habit.<br/>E-cigarettes can help a user to:",
+      "image": "2",
+      "fact": "REDUCE TOBACCO USE",
+      "factjustifier": "\'Long-term e-Cigarette use can substantially decrease cigarette consumption in smokers not willing to quit and is well tolerated\'",
+      "Citation": "Citation: <a href=\'http://www.ncbi.nlm.nih.gov/pubmed/23873169\'>Effectiveness and tolerability of electronic cigarette in real-life - US National Library of Medicine</a>"
+    },
+    {
+      "intro": "Claims that e-cigarette fluid can contain \'rat poison\' is a misconception.<br/>Their main constituent is:",
+      "image": "3",
+      "fact": "Propylene Glycol",
+      "factjustifier": "\'The main ingredients of e-liquids are usually a mix of propylene glycol (PG), vegetable glycerin (VG), and/or polyethylene glycol 400 (PEG400), sometimes with differing levels of alcohol mixed with concentrated or extracted flavorings\'",
+      "Citation": "Citation: <a href=\'http://en.wikipedia.org/wiki/Electronic_cigarette#E-liquid\'>E-liquid - Wikipedia</a>"
+    }
+  ]
+}
