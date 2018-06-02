@@ -1,6 +1,6 @@
 # notsoeducated.org website
 
-A website developed by me and a fellow called Ian Armour that was designed to counter the mis-information we saw as being a real issue at the time. The site has since been taken down, as it had fulfilled its purpose. It is available to view on my [Personal site](http://www.kn100.me/projects/notsoeducated.org) in an archived format. The code is here for completeness.
+A website developed by me and a fellow called Ian Armour that was designed to counter the mis-information we saw as being a real issue at the time. The site has since been taken down, as it had fulfilled its purpose. It is available to view on my [Personal site](https://notsoeducated.kn100.me/) in an archived format. The code is here for completeness.
 
 ## Server requirements
  * PHP
